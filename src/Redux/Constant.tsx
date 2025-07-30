@@ -1,0 +1,1 @@
+export const TOGGLE_MODE = 'Toggle_Mode';
